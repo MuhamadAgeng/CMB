@@ -154,7 +154,11 @@ svg path {
 }
 .neon:hover,
 .neon:focus {
+<<<<<<< HEAD
   color: rgb(0, 0, 0);
+=======
+  color: black;
+>>>>>>> 27005c69e9be962740ee68d446a11d138740f04d
 }
 .neon:hover::before {
   opacity: 0.8;
